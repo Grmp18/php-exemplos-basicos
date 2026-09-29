@@ -1,3 +1,4 @@
+
 ### 🛒 Desafio 2 (Alternativo): Cadastro de Produtos com Validação 🛡️
 
 Crie um script PHP para cadastrar produtos. Ele deve ter uma validação para garantir que apenas dados válidos sejam inseridos no banco.
